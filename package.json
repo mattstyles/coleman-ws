@@ -1,6 +1,6 @@
 {
   "name": "coleman-ws",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "Sock-it to Coleman",
   "main": "index.js",
   "scripts": {
